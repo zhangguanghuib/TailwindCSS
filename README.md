@@ -25,3 +25,88 @@ https://tailwindcss.com/docs/installation/play-cdn
 </html>
 ```
 
+## 3. Follow this link to config tailwindcss cli<br/>
+https://tailwindcss.com/docs/installation/tailwind-cli
+
+## 4. Html Emmet:<br/>
+
+```html
+<body>
+    <!--.btn-->
+    <div class="btn"></div>
+
+    <!-- . -->
+    <div class=""></div>
+
+    <!-- .btn.text-sm-->
+    <div class="btn text-sm"></div>
+
+    <!-- #id-->
+    <div id="id"></div>
+
+    <!-- #username-->
+    <div id="username"></div>
+
+    <!-- #username.btn.test-lg-->
+    <div id="username" class="btn test-lg"></div>
+
+    <!-- span.btn -->
+    <span class="btn"></span>
+
+    <!-- ul>li -->
+    <ul>
+        <li></li>
+    </ul>
+
+    <!-- ul>li*3 -->
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+    </ul>
+
+    <!-- li+div -->
+    <li></li>
+    <div></div>
+
+    <!-- ul>li*3+p -->
+    <ul>
+        <li></li>
+        <li></li>
+        <li></li>
+        <p></p>
+    </ul>
+
+    <!-- ul>li*2+p -->
+    <ul>
+        <li></li>
+        <li></li>
+    </ul>
+    <p></p>
+     
+    <!-- p>lorem-->
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto fugiat ipsa recusandae rem numquam modi corporis illum, aut laborum ea at atque suscipit reiciendis veritatis nam doloribus incidunt animi? Velit.</p>
+     
+    <!-- p>lorem5-->
+    <p>Lorem ipsum dolor sit amet.</p>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Corrupti, ratione.</p>
+
+    <!--ul>li{item}-->
+    <ul>
+        <li>item</li>
+    </ul>
+
+    <!-- ul>li{item$}*3 -->
+    <ul>
+        <li>item1</li>
+        <li>item2</li>
+        <li>item3</li>
+    </ul>
+
+    <!--.font-nomo.text-2xl>lorem10-->
+    <div class="font-nomo text-2xl">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum repudiandae libero nisi error numquam maiores voluptate est corrupti nihil amet, at inventore consequuntur officia eius, veniam quos, autem illo quasi.</div>
+</body>
+```
+
+
