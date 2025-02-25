@@ -43,8 +43,8 @@ And create an empty config file: <br/>
 ![image](https://github.com/user-attachments/assets/dbf0dd64-9f69-4544-b6aa-0eb423d39bc4)<br/>
 
 ##### Step 3-3:
-Run:  npm run dev to open the page:
-![image](https://github.com/user-attachments/assets/5554d925-08af-4492-875d-f8331c89bda5)
+Run:  npm run dev to open the page:<br/>
+![image](https://github.com/user-attachments/assets/5554d925-08af-4492-875d-f8331c89bda5)<br/>
 
 
 ## 4. Html Emmet:<br/>
