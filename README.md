@@ -1,6 +1,6 @@
-# TailwindCSS
+# TailwindCSS V4 Config Steps
 ## 1. Environment Preparation: <br/>
-       Install this plugin <br/>
+Install this plugin <br/>
        
 ![image](https://github.com/user-attachments/assets/2a5fa215-42d3-4ad7-b55a-1dde9dd274ac)
 
@@ -27,6 +27,25 @@ https://tailwindcss.com/docs/installation/play-cdn
 
 ## 3. Follow this link to config tailwindcss cli<br/>
 https://tailwindcss.com/docs/installation/tailwind-cli
+
+### Sub Steps:
+##### Step 3-1:
+ run: npm init with all default values<br/>
+##### Step 3-2:
+Follow this link:  https://tailwindcss.com/docs/installation/tailwind-cli<br/>
+Please notice I changed the file structure as below:<br/>
+![image](https://github.com/user-attachments/assets/880e74d5-6584-4df6-8f73-978bff688abc)<br/>
+##### Step 3-3:
+Install the plugin:  <br/>
+![image](https://github.com/user-attachments/assets/7200b937-90b0-416f-b63d-7127a14e7043)<br/>
+
+And create an empty config file: <br/>
+![image](https://github.com/user-attachments/assets/dbf0dd64-9f69-4544-b6aa-0eb423d39bc4)<br/>
+
+##### Step 3-3:
+Run:  npm run dev to open the page:
+![image](https://github.com/user-attachments/assets/5554d925-08af-4492-875d-f8331c89bda5)
+
 
 ## 4. Html Emmet:<br/>
 
